@@ -1,4 +1,4 @@
-<h1 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razorplay01&show_icons=true&theme=radical)</h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razorplay01&show_icons=true&theme=radical)
 <h2 align="center">🌱 My Skills</h2>
 
 <h4 align="center">💻 Programming languages (and html)</h4>
