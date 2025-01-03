@@ -51,6 +51,6 @@
 </p>
 <div align="center">
 
-![vistcount](https://komarev.com/ghpvc/?username=spectrasonic117&color=CF0234&style=for-the-badge)
+![vistcount](https://komarev.com/ghpvc/?username=razorplay01&color=CF0234&style=for-the-badge)
 
 </div>
