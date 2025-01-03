@@ -50,5 +50,5 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=razorplay01&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=razorplay01&color=blueviolet"/>
+    ![vistcount](https://komarev.com/ghpvc/?username=razorplay01&color=CF0234&style=for-the-badge)
 </p>
