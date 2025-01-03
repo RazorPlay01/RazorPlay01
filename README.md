@@ -49,6 +49,8 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=razorplay01&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=razorplay01&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
-<p align="center">
-    ![vistcount](https://komarev.com/ghpvc/?username=razorplay01&color=CF0234&style=for-the-badge)
-</p>
+<div align="center">
+
+![vistcount](https://komarev.com/ghpvc/?username=spectrasonic117&color=CF0234&style=for-the-badge)
+
+</div>
