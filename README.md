@@ -50,7 +50,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=razorplay01&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 <div align="center">
-
+    
+[![Discord Presence](https://lanyard.cnrad.dev/api/507285922354692108)](https://discord.com/users/507285922354692108)
+    
 ![vistcount](https://komarev.com/ghpvc/?username=razorplay01&color=CF0234&style=for-the-badge)
 
 </div>
