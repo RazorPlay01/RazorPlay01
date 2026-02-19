@@ -20,6 +20,10 @@
 <br>
 
 <h2 align="center">💻 Loading...</h2>
+
+[![RazorPlay01](https://modfolio.creeperkatze.de/modrinth/user/RazorPlay01)](https://modrinth.com/user/RazorPlay01)
+[![RazorPlay01](https://modfolio.creeperkatze.de/curseforge/user/102374443)](https://www.curseforge.com/members/razorplay01)
+
 <!--tech stack icons-->
 <p align="center">
   <h2>:star2: Front End</h2>
